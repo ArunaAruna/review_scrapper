@@ -1,0 +1,1 @@
+web: python flask_ineuron.py   --master --processes 4 --threads 2
